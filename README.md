@@ -1,4 +1,4 @@
-# Global Data Jobs Analysis (EDA) and Visualization (Power BI)
+# Global Data Jobs Analysis and Visualization (EDA) (Power BI)
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ GLOBAL DATA JOBS ANALYSIS/
 ├── data/
 │   └── global_jobs_data.xlsx        # Dataset
 │
-|── power bi/                        # Data Visualization 
+|── power_bi/                        # Data Visualization 
 |   └── datajobs_visualization.pbit
 |   └── visualization.pdf
 │   └── job_analysis_images/
@@ -51,7 +51,7 @@ Below are the key dashboards and insights derived:
 
 ### 1. Global Job Distribution & Role Comparison
 
-![Dashboard](job_analysis_images/quarterly_matrix.jpg)
+![Dashboard](power_bi/job_analysis_images/quarterly_matrix.jpg)
 
 #### Key Insights:
 
@@ -67,7 +67,7 @@ Below are the key dashboards and insights derived:
 
 ### 2. Salary Comparison Across Top Countries
 
-![Dashboard](job_analysis_images/jobs_median_salary.jpg)
+![Dashboard](power_bi/job_analysis_images/jobs_median_salary.jpg)
 
 #### Key Insights:
 
@@ -86,7 +86,7 @@ Below are the key dashboards and insights derived:
 
 ### 3. Hiring Trends Over Time (2026)
 
-![Dashboard](job_analysis_images/trend_analysis.jpg)
+![Dashboard](power_bi/job_analysis_images/trend_analysis.jpg)
 
 #### Key Insights:
 
@@ -102,7 +102,7 @@ Below are the key dashboards and insights derived:
 
 ### 4. Skills vs Degree & Work Trends
 
-![Dashboard](job_analysis_images/data_jobs_percent_analysis.jpg)
+![Dashboard](power_bi/job_analysis_images/data_jobs_percent_analysis.jpg)
 
 #### Key Insights:
 
@@ -118,7 +118,7 @@ Below are the key dashboards and insights derived:
 
 ### 5. Global Job Density Map
 
-![Dashboard](job_analysis_images/jobs_density.jpg)
+![Dashboard](power_bi/job_analysis_images/jobs_density.jpg)
 
 #### Key Insights:
 
@@ -133,15 +133,16 @@ High job density in:
 
 * Data jobs cluster in tech-driven economies
 * Emerging markets show growth potential
+---
 
 ### Final Power BI Insights
 
-Data Engineering is the most in-demand role globally
-Senior roles command significantly higher salaries
-Strong geographic salary inequality exists
-Hiring follows seasonal patterns
-Industry is shifting toward skills over degrees
-Remote work is common, but full-time roles dominate
+* Data Engineering is the most in-demand role globally
+* Senior roles command significantly higher salaries
+* Strong geographic salary inequality exists
+* Hiring follows seasonal patterns
+* Industry is shifting toward skills over degrees
+* Remote work is common, but full-time roles dominate
 ---
 
 ## Tech Stack
