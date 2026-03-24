@@ -51,7 +51,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Dreamy100/Global-Data-Jobs-Analysis-and-Visualization.git
+git clone https://github.com/WizardNox/Global-Data-Jobs-Analysis-and-Visualization.git
 cd data-jobs-eda
 ```
 
