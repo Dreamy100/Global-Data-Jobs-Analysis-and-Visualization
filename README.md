@@ -66,13 +66,13 @@ python -m venv datajobs_venv
 * **Windows:**
 
 ```bash
-venv\Scripts\activate
+datajobs_venv\Scripts\activate
 ```
 
 * **Mac/Linux:**
 
 ```bash
-source venv/bin/activate
+source datajobs_venv/bin/activate
 ```
 
 ### 4. Install Dependencies
